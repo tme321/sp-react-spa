@@ -1,0 +1,12 @@
+.nav-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: blue;
+    display: flex;
+}
+
+.items {
+    display: flex;
+}
